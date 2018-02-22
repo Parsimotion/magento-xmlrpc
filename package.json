@@ -4,18 +4,22 @@
   "homepage": "http://lobot-io.github.io/magento-xmlrpc/",
   "description": "Magento XML-RPC API wrapper for Node.js",
   "man": "./MANUAL.md",
-  "version": "0.3.3",
+  "version": "0.4.0",
   "main": "./src/magento",
-  "contributors": [{
-    "name": "Tim Marshall",
-    "email": "timothyjmarshall@gmail.com"
-  }, {
-    "name": "Ian Graham",
-    "email": "ian.graham@ice.com"
-  }, {
-    "name": "Steve Wolfe",
-    "email": "stevenwolfe@gmail.com"
-  }],
+  "contributors": [
+    {
+      "name": "Tim Marshall",
+      "email": "timothyjmarshall@gmail.com"
+    },
+    {
+      "name": "Ian Graham",
+      "email": "ian.graham@ice.com"
+    },
+    {
+      "name": "Steve Wolfe",
+      "email": "stevenwolfe@gmail.com"
+    }
+  ],
   "engines": {
     "node": ">=0.10.20"
   },
