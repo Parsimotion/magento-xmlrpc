@@ -66,7 +66,7 @@ var protos = {
   */
   order: {
     mandatory: 'quoteId',
-    optional: 'storeView,agreements'
+    optional: 'storeView,agreements,extras'
   },
   /**
    Allows you to create an order from a shopping cart (quote).
