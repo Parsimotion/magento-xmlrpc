@@ -11,6 +11,7 @@ magento.checkoutCart.create(callback);
 
 magento.checkoutCart.create({
   storeView: val
+  extras: val /* optional */
 }, callback);
 ```
 
@@ -47,6 +48,7 @@ magento.checkoutCart.order({
   quoteId:    val,
   storeView:  val,  /* optional */
   agreements: val   /* optional */
+  extras: val   /* optional */
 }, callback);
 ```
 
