@@ -45,7 +45,7 @@ var protos = {
   */
   list: {
     mandatory: 'product',
-    optional: 'storeView'
+    optional: 'storeView,identifierType'
   },
 
   /**
