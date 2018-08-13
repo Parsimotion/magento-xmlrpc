@@ -4,7 +4,7 @@
   "homepage": "http://lobot-io.github.io/magento-xmlrpc/",
   "description": "Magento XML-RPC API wrapper for Node.js",
   "man": "./MANUAL.md",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "main": "./src/magento",
   "contributors": [
     {
