@@ -30,7 +30,7 @@ var protos = {
   */
   method: {
     mandatory: 'quoteId,shippingMethod',
-    optional: 'storeView'
+    optional: 'storeView,shippingPrice,meliStorePickup,uriLabel'
   }
 };
 
