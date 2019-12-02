@@ -1,5 +1,5 @@
 {
-  "name": "magento-xmlrpc",
+  "name": "@producteca/magento-xmlrpc",
   "author": "Steve Wolfe <stevenwolfe@gmail.com>",
   "homepage": "http://lobot-io.github.io/magento-xmlrpc/",
   "description": "Magento XML-RPC API wrapper for Node.js",
