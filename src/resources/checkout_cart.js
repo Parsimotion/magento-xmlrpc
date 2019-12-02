@@ -21,7 +21,7 @@ var protos = {
     Allows you to create an empty shopping cart.
   */
   create: {
-    optional: 'storeView,extras'
+    optional: 'storeView,extras,meliOrderId'
   },
 
   /**
