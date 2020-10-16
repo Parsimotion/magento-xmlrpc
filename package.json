@@ -3,7 +3,6 @@
   "author": "Steve Wolfe <stevenwolfe@gmail.com>",
   "homepage": "http://lobot-io.github.io/magento-xmlrpc/",
   "description": "Magento XML-RPC API wrapper for Node.js",
-  "man": "./MANUAL.md",
   "version": "0.5.1",
   "main": "./src/magento",
   "contributors": [
@@ -24,8 +23,8 @@
     "node": ">=0.10.20"
   },
   "dependencies": {
-    "request": "2.34.0",
-    "@producteca/xmlrpc": "^1.2.0"
+    "@producteca/xmlrpc": "^1.4.1",
+    "request": "2.34.0"
   },
   "keywords": [
     "magento",
