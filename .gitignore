@@ -5,4 +5,4 @@ node_modules/
 *.txt
 *.log
 .idea
-.gitignore
+package-lock.json
