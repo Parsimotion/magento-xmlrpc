@@ -1,5 +1,5 @@
 // external dependencies
-var xmlrpc = require('xmlrpc');
+var xmlrpc = require('@producteca/xmlrpc');
 var events = require('events');
 var util = require('util');
 

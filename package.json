@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "request": "2.34.0",
-    "xmlrpc": "1.2.0"
+    "@producteca/xmlrpc": "^1.2.0"
   },
   "keywords": [
     "magento",
